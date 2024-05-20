@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/onion/Portfolio_Blog/Portfolio_blog",
+	"sourceRoot": "/home/onion/Portfolio_Blog/blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
