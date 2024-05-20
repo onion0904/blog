@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on onion’s blog</title>
-    <link>http://localhost:1313/article/</link>
+    <link>//localhost:1313/article/</link>
     <description>Recent content in Articles on onion’s blog</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="http://localhost:1313/article/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ブログはじめました</title>
-      <link>http://localhost:1313/article/1/</link>
+      <link>//localhost:1313/article/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/article/1/</guid>
+      <guid>//localhost:1313/article/1/</guid>
       <description>ブログはじめました 何にもないです。 これからブログを書いていきたいと思います。</description>
     </item>
   </channel>
