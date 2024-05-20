@@ -1,0 +1,21 @@
+baseURL = 'http://localhost:1313/'
+ languageCode = 'ja'
+ languageName = 'Japanese'
+ defaultContentLanguage = 'ja'
+ hasCJKLanguage = true
+ title = 'onion’s blog'
+ theme = 'ananke'
+ 
+ [params]
+   text_color = 'dark-gray'
+   background_color_class = 'bg-navy'
+   author = '鬼オン'
+   favicon = '/images/article/スクリーンショット 2023-12-16 150731.png'
+   site_logo = '/images/article/スクリーンショット 2023-12-16 150731.png'
+ 
+ [[params.ananke_socials]]
+   name = 'twitter'
+   url  = 'https://twitter.com/greatonion0904'
+ [[params.ananke_socials]]
+   name = 'github'
+   url  = 'https://github.com/onion0904'
